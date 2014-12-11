@@ -8,7 +8,7 @@
 #include <iostream>
 #include <windows.h>
 #include <string>
-#include "c:\\htdocs\\ze\\ze.h"
+#include "ze.h"
 
 using namespace std;
 
